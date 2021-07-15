@@ -1,5 +1,5 @@
 name: alert_lah
-description: Flutter plugin for Firebase Cloud Messaging (Fork of version 7.0.1), a cross-platform
+description: This is Fork of firebase_messaging version 7.0.1. A Flutter plugin for Firebase Cloud Messaging, a cross-platform
   messaging solution that lets you reliably deliver messages on Android and iOS.
 homepage: https://github.com/Undiscovereds/alert-lah
 version: 1.0.1
